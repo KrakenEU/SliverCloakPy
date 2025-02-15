@@ -15,7 +15,7 @@ This will automatically clone armysick's sliver, and get the necessary dependeci
 Beacons are renamed to Krakens, and sliver-server/client is renamed to golder-server/client
 
 ## armory problems fix
-Since this is replacing strings, including the ones of armory, you wont be able to install armory packages straight forard, here is a quick fix
+Since this is replacing strings, including the ones of armory, you wont be able to install armory packages straight away, here is a quick fix
 
 ```
 armory add -u https://api.github.com/repos/sliverarmory/armory/releases -k "RWSBpxpRWDrD7Fe+VvRE3c2VEDC2NK80rlNCj+BX0gz44Xw07r6KQD9L" armory
