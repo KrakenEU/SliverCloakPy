@@ -1,12 +1,16 @@
 # SliverCloakPy
 Bypass common signature detections such as the ones from elastic.
+
 Python script that does the job of slivercloak against armysick's sliver fork
+
 slivercloak -> https://github.com/thelikes/slivercloak
+
 armysick's sliver -> https://github.com/armysick/sliver
 
 ## Usage
 
 Right now the script covers the Elastic Module, but you can replace whatever you want to be honest.
+
 I did this small script because I have a hard time understanding all the work behind go, and I wanted to use armysick's fork, since it implements the ekko sleep module.
 
 Just download the script and run `python3 builder.py`
