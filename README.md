@@ -26,7 +26,7 @@ generate kraken --http 10.10.10.134 -s /mnt/c/Payloads --arch amd64 --os windows
 
 http
 ```
-
+[!BypassElastic](ElasticRuleBypass.png)
 ## armory problems fix
 Since this is replacing strings, including the ones of armory, you wont be able to install armory packages straight away, here is a quick fix
 
