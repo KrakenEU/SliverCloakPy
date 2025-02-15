@@ -11,6 +11,8 @@ I did this small script because I have a hard time understanding all the work be
 
 Just download the script and run `python3 builder.py`
 
+Beacons are renamed to Krakens, and sliver-server/client is renamed to golder-server/client
+
 ## armory problems fix
 Since this is replacing strings, including the ones of armory, you wont be able to install armory packages straight forard, here is a quick fix
 
