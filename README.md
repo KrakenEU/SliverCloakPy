@@ -18,6 +18,7 @@ Just download the script and run `python3 builder.py`
 Make sure you have some common tools suchs as
 - zip
 - go
+- protobuf-compiler
 
 This will automatically clone armysick's sliver, and get the necessary dependecies, afterwards, it will replace strings in the files and compile the proyect
 
