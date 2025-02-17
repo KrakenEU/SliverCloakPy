@@ -14,6 +14,11 @@ Right now the script covers the Elastic Module, but you can replace whatever you
 I did this small script because I have a hard time understanding all the work behind go, and I wanted to use armysick's fork, since it implements the ekko sleep module.
 
 Just download the script and run `python3 builder.py`
+
+Make sure you have some common tools suchs as
+- zip
+- go
+
 This will automatically clone armysick's sliver, and get the necessary dependecies, afterwards, it will replace strings in the files and compile the proyect
 
 Beacons are renamed to Krakens, and sliver-server/client is renamed to golder-server/client
